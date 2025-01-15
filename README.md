@@ -16,13 +16,7 @@ This is a Python-based voice-activated virtual assistant capable of responding t
 - Interactive Flow: Provides real-time feedback for user input, handles errors gracefully, and ends the session when the user says "bye."
 
 ## Installation
-1. Clone the repository:
-
-```bash 
-git clone https://github.com/your-username/voice-assistant.git
-cd voice-assistant
-```
-2. Install the required dependencies:
+Install the required dependencies:
 
 ```bash
 pip install pyttsx3
